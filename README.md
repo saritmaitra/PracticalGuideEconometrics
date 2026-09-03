@@ -3,4 +3,4 @@ This book provides a comprehensive guide to econometric modeling, combining theo
 
 https://link.springer.com/book/10.1007/978-3-031-86862-7
 
-Instructor's guide provided in InstructionGuide folder.
+**Instructor's guide provided in InstructionGuide folder.**
