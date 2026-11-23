@@ -1,6 +1,8 @@
 # A Practical Guide to Static & Dynamic Econometric Modeling - Examples and Analysis with Python Code Embedded
 ### https://doi.org/10.1007/978-3-031-86862-7
 
+## Publisher: Springer Cham
+
 This book is designed for undergraduates, Master’s/M.B.A. students, Ph.D. research scholars, and researchers seeking a comprehensive understanding of con-temporary Econometric techniques. It is suitable for courses on financial time series analysis, Econometrics in finance, and financial economics. This book provides statistical analysis and empirical testing of theories in a clear and easy-to-understand manner.
 No prior knowledge of statistics, Econometrics, or algebra is needed for this book, but any prior exposure to linear algebra and basic statistics can help to understand faster. The book emphasizes the valid application of techniques to data processing, Econometric models, and statistical inferences. It covers both static and dynamic modeling techniques, complete with practical demonstrations.
 
@@ -20,4 +22,4 @@ bullet
 bullet
 - Chapter 7 Discusses dynamic Vector Auto Regression (VAR) and Vector Error Correction (VEC) models and different testing mechanisms.
 
-**Instructor's guide provided in InstructionGuide folder.**
+## **Instructor's guide provided in InstructionGuide folder.**
